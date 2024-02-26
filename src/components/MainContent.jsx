@@ -180,7 +180,7 @@ const MainContent = () => {
                   className='text-primary'
                   style={{ textDecoration: 'underline' }}
                 >
-                  Learn More
+                  View Recipe
                 </Link>
               </p>
             </div>
